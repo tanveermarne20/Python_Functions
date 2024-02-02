@@ -40,3 +40,11 @@ tup=(4,5,3,8)
 # 6.Python tuple program to create a tuple having squares of the elements from the list.
 # Input = [(1,5,7), (3,6)]
 # Output = (1, 81, 25, 49, 36
+
+
+
+# 7.Python tuple program to join tuples if the initial elements of the sub-tuple are the same.
+# Input:
+# [(3,6,7),(7,8,4),(7,3),(3,0,5)]
+# Output:
+# [(3,6,7,0,5),(7,8,4,3)]
